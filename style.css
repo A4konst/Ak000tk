@@ -56,6 +56,11 @@ width: 110px;
 
 .soft-itens1{  
   background-color: #E8D5D5;
+
+}
+
+.soft-div{
+  background-color: #E8D5D5;
   display: flex;
   align-items:center ; 
   width: 120%;
@@ -64,8 +69,8 @@ width: 110px;
 
  .imagem-soft{ 
 width: 10%;
-height: 20%;
-padding-left: 10px;
+height: 20%px;
+padding-left: 30px;
  }
 
  .lux-2{
@@ -86,7 +91,6 @@ padding-left: 10px;
 
 
 }
-
 
 .luximgg{
   width: 10%;
